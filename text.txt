@@ -1,0 +1,148 @@
+1.
+Question 1
+Fill in the blank: ____ is the process of strengthening a system to reduce its vulnerability and attack surface.
+
+
+
+Security hardening
+
+Network hardening
+
+Port filtering
+
+SIEM
+
+1 point
+2.
+Question 2
+When performing security hardening, what is the goal with regards to the attack surface?
+
+
+
+Mirror the attack surface
+
+Hide the attack surface
+
+Augment the attack surface
+
+Reduce the attack surface
+
+1 point
+3.
+Question 3
+Fill in the blank: Requiring employees to turn off their personal devices while in secure areas is an example of a _____ security hardening practice.
+
+
+
+physical
+
+cloud-based
+
+virtual
+
+network-focused
+
+1 point
+4.
+Question 4
+An organization’s in-house security team has been authorized to simulate an attack on the organization’s website. The objective is to identify any vulnerabilities that are present. What does this scenario describe? 
+
+
+
+A Distributed Denial of Service (DDoS) attack
+
+Packet sniffing
+
+The Ping of Death
+
+Penetration testing
+
+1 point
+5.
+Question 5
+Which of the following statements accurately describe OS hardening tasks? Select three answers. 
+
+
+
+OS hardening is a set of procedures that maintain and improve OS security. 
+
+When disposing of software, it is a best practice to delete any unused applications.
+
+Some OS hardening tasks are performed at regular intervals, while others are performed only once.
+
+Multi-factor authentication is a security measure requiring users to change passwords every month.
+
+1 point
+6.
+Question 6
+A security analyst reviews documentation about a firewall rule that includes a list of allowed and disallowed network ports. They compare it to the current firewall to ensure no changes have been made. What does this scenario describe?
+
+
+
+Upgrading the interface between computer hardware and the user
+
+Verifying user identity when accessing an OS
+
+Responsibly managing applications
+
+Checking baseline configuration
+
+1 point
+7.
+Question 7
+Multi-factor authentication (MFA) is an example of which type of hardening practice?
+
+
+
+Network hardening
+
+Attack surface
+
+OS hardening
+
+Network log analysis
+
+1 point
+8.
+Question 8
+In what way might port filtering be used to protect a network from an attack?
+
+
+
+By blocking or allowing certain port numbers in order to limit unwanted communication
+
+By helping analysts inspect, analyze, and react to security events based on their priority
+
+By creating isolated subnets for each of the various departments within an organization
+
+By increasing the attack surface within a business network
+
+1 point
+9.
+Question 9
+Which network hardening practice is used to create isolated subnets for different departments in an organization?
+
+
+
+Cloud hardening
+
+Patch updating
+
+Network segmentation
+
+Penetration testing
+
+1 point
+10.
+Question 10
+Fill in the blank: A ____ is a collection of servers or computers that stores resources and data in remote data centers that can be accessed via the internet
+
+
+
+baseline configuration
+
+patch update
+
+SIEM
+
+cloud network
